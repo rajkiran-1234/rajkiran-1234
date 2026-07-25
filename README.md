@@ -12,14 +12,14 @@ I'm a developer who enjoys learning new technologies and building projects.
 
 ## 🛠️ Tech Stack
 
-- Programming: Java, Python, JavaScript
+- Programming: React,Node js,Laravel,Python
 - Web: HTML, CSS, React
-- Database: MySQL
+- Database: MySQL,Mongo DB
 - Tools: Git, GitHub, VS Code
 
 ## 📫 Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/ssrajkiran
 
 ---
 ⭐ Thanks for visiting my profile!
